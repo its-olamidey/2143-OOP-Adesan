@@ -7,5 +7,5 @@
 |   3   | [P01](P01)        | MyVector Class                   |
 |   4   | [P02](P02)        | MyVector Class 2                 |
 |   5   | [P03A](P03A)      | Rock Paper Scissors Lizard Spock |
-|   6   | [P03B](P03B)      | BolNiverse Fight Club            |
+|   6   | [P03B](P03B)      | BolNiverse Fight Club (Incomplete)           |
 |   7   | [A06](Uml) | UML Diagram           |
