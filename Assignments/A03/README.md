@@ -8,7 +8,7 @@ An example program banner cover to be put on assignments. Directions for this as
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [A03.cpp](https://github.com/its-olamidey/2143-OOP-Adesan/blob/main/Assignments/A03/A03%20banner)         | Banner Page|
+|   1   | [A03 banner](https://github.com/its-olamidey/2143-OOP-Adesan/blob/main/Assignments/A03/A03%20banner)         | Banner Page|
 
 
 ### Instructions
