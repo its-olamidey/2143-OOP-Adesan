@@ -14,7 +14,7 @@ We do not have to abide by convention, we can define each operator to do anythin
 | :---: | ---------------------------- | ----------------------- |
 |   1   | [P02.cpp](main.cpp)         | Main driver for program |
 |   2   | [P02.txt] (P02 banner)| Banner for my myvector       |
-|   3   | [P02 output](output.txt)     | output from program     |
+|   3   | [P02 output](https://github.com/its-olamidey/2143-OOP-Adesan/blob/main/Assignments/P02/P02%20output)     | output from program     |
 
 
 ### Instructions
