@@ -29,7 +29,7 @@ any reason they have the same weapon again, the game is over and declared a tie.
 
 |   #   | File                      | Description             |
 | :---: | ------------------------- | ----------------------- |
-|   1   | [P03A.cpp](main.cpp)      | Main driver for program |
+|   1   | [P03A.cpp](https://github.com/its-olamidey/2143-OOP-Adesan/blob/main/Assignments/PO3A/Po3A.cpp)      | Main driver for program |
 
 
 
