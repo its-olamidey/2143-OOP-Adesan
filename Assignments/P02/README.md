@@ -13,7 +13,7 @@ We do not have to abide by convention, we can define each operator to do anythin
 |   #   | File                         | Description             |
 | :---: | ---------------------------- | ----------------------- |
 |   1   | [P02.cpp](https://github.com/its-olamidey/2143-OOP-Adesan/blob/main/Assignments/P02/P02.cpp)         | Main driver for program |
-|   2   | [P02 banner] (https://github.com/its-olamidey/2143-OOP-Adesan/blob/main/Assignments/P02/po2.txt)| Banner for my myvector       |
+|   2   | [P02.txt] (https://github.com/its-olamidey/2143-OOP-Adesan/blob/main/Assignments/P02/po2.txt)| Banner for my myvector       |
 |   3   | [P02 output](https://github.com/its-olamidey/2143-OOP-Adesan/blob/main/Assignments/P02/P02%20output)     | output from program     |
 
 
