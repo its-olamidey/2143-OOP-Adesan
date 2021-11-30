@@ -9,3 +9,4 @@
 |   5   | [P03A](P03A)      | Rock Paper Scissors Lizard Spock |
 |   6   | [P03B](P03B)      | BolNiverse Fight Club (Incomplete)           |
 |   7   | [A06](A06) | UML Diagram           |
+|   8  | [A05](A05) | Basic OOP Terminology          |
