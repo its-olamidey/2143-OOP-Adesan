@@ -1,6 +1,6 @@
 
 ## PO3A - Rock paper Scissors Lizard Spock
-### Angel Badillo
+### Adesan Olamide
 ### Description:
 
 This program is a game of RPSLS (Rock Paper Scissors Lizard Spock)
