@@ -13,7 +13,7 @@ We do not have to abide by convention, we can define each operator to do anythin
 |   #   | File                         | Description             |
 | :---: | ---------------------------- | ----------------------- |
 |   1   | [P02.cpp](main.cpp)         | Main driver for program |
-|   2   | [P02 banner] | Banner for my myvector       |
+|   2   | [P02.txt] | Banner for my myvector       |
 |   3   | [P02 output](output.txt)     | output from program     |
 
 
