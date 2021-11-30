@@ -31,7 +31,7 @@ any reason they have the same weapon again, the game is over and declared a tie.
 | :---: | ------------------------- | ----------------------- |
 |   1   | [P03A.cpp](main.cpp)      | Main driver for program |
 
-|   3   | [output.txt](output.txt) | Output from my test run  |
+
 
 
 
